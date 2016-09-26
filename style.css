@@ -57,7 +57,16 @@ a:hover: {
 }
 
 
-
+#search {
+	color: gray;
+	font-size: 20px;
+	align-content: center;
+	display: inline-block;
+	font-family: Helvetica;
+	text-align: center;
+	position: relative;
+	border: 2px solid gray;
+}
 
 .description {
 	font-family: Helvetica;
